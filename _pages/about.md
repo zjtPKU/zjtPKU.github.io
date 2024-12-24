@@ -6,7 +6,7 @@ subtitle: <a href='#'>Peking University</a>. Institute for Artificial-Intelligen
 
 profile:
   align: left
-  image: head.jpeg
+  image: junting-paris.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Peking University</p>
